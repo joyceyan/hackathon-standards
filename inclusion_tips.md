@@ -30,6 +30,8 @@ Several hackathon organizers have come forward and asked how to make their hacka
 
 * During the application process or otherwise before the event, ask your participants about any allergies they may have (e.g. to food) and accomodate them through out the event.
 
+* Ensure that sponsors, reporters, and other non-hackers attending the hackathon are familiar with hackathon standards.
+
 ## Day of the Event
 
 * Enforce bathroom genders (do not turn female bathrooms into male restrooms) and  if possible have a gender neutral restroom (this is for trans* folks).
